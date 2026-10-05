@@ -1,4 +1,4 @@
-# This script is written by Onat Kemal Gede
+# Junior Dev: Onat Kemal Gede
 
 def announce(start, end):
     """Exercise 1 helper: natural-sounding command for an interval."""
